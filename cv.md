@@ -1,3 +1,5 @@
-#Ruslana
-#Ruslana
-#Ruslana
+
+
+Ruslana Mavlyutova
+
+Skills: Python, C++
